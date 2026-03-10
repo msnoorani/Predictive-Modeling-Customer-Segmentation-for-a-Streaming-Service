@@ -1,0 +1,34 @@
+# Dataset — Streaming Service Customer Data
+
+This project uses the **Streaming Service Dataset** from Kaggle.
+
+## Download
+
+🔗 [Kaggle Dataset Link](https://www.kaggle.com/datasets/akashanandt/streaming-service-data)
+
+You will need a free Kaggle account to download.
+
+## Setup
+
+After downloading, place the file in this folder as follows:
+
+```
+data/
+└── streaming_service_data.csv
+```
+
+## Features Used
+
+| Feature | Type | Used For |
+|---------|------|----------|
+| Age | Numerical | Regression, Clustering |
+| Subscription Length | Numerical | Regression |
+| Support Tickets Raised | Numerical | Regression |
+| Satisfaction Score | Numerical | Regression (best single predictor) |
+| Discount Offered | Numerical | Regression |
+| Last Activity | Numerical | Regression |
+| Monthly Spend | Numerical | **Target variable** |
+| Churn | Binary | **Classification target** |
+| Gender | Categorical | Regression (encoded) |
+| Region | Categorical | Regression (encoded) |
+| Payment Method | Categorical | Regression (encoded) |
