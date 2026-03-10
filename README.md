@@ -1,4 +1,5 @@
 # Predictive-Modeling-Customer-Segmentation-for-a-Streaming-Service
+### ML-powered customer segmentation and churn prediction for a streaming platform
 This project presents a comprehensive analysis of customer data from a streaming service, focusing on predictive modeling and unsupervised customer segmentation to optimize business decisions. Using both regression and classification models, we predict monthly customer spending and churn behavior. 
 # Objectives:
 1. Predictive Modeling
